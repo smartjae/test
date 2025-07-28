@@ -3,7 +3,7 @@
 # platform: win-64
 # created-by: conda 24.9.2
 
-absl-py=2.3.1=pypi_0
+
 aioice=0.10.1=pypi_0
 aiortc=1.13.0=pypi_0
 altair=5.5.0=pypi_0
