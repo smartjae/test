@@ -1,6 +1,6 @@
 # requirements.txt 맨 위에 추가
 pip>=25.1
-setuptools>=80.0
+setuptools>=78.0
 
 absl-py==2.3.1
 aioice==0.10.1
